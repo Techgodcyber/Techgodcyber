@@ -12,7 +12,7 @@
   <a href="mailto:admin@techgod.space">
     <img src="https://img.shields.io/badge/Email-admin@techgod.space-F0B90B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles%20%26%20Contracts-3C3C3D?style=for-the-badge" alt="Open to remote roles and contracts">
+  <img src="https://img.shields.io/badge/Open%20to-Relocation%20%C2%B7%20Hybrid%20%C2%B7%20Remote-3C3C3D?style=for-the-badge" alt="Open to relocation, hybrid or remote">
 </p>
 
 ---
@@ -67,7 +67,7 @@ Low-level EVM utilities for PHP: RLP encoder, EIP-155 transaction signing, ABI c
 
 ### Get in touch
 
-Open to remote security roles, security assessments, and backend contract work.
+Open to security roles worldwide (happy to relocate, or work hybrid or remote), security assessments, and backend contract work.
 
 - 🌐 **[techgod.space](https://techgod.space)**
 - 📧 **[admin@techgod.space](mailto:admin@techgod.space)**
