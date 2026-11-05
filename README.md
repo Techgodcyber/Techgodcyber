@@ -27,9 +27,10 @@ I break software for a living and build it too. I've been working hands-on since
 
 - **Vulnerability research.** Discovered and privately disclosed vulnerabilities in third-party websites, handled under confidentiality agreements with the site owners.
 - **Exploits found in live financial software.** A game-replay payout exploit, a crash-game outcome leak, and a payout-crediting failure, all found and fixed in production platforms.
+- **Defensive security & malware analysis.** Endpoint protection and EDR hardening, application control against untrusted binaries and DLL sideloading, and how attackers abuse code signing to slip past Windows security.
 - **Governance, Risk & Compliance.** Risk assessment, security governance, policy development, compliance frameworks, remediation planning.
-- **Threat analysis & takedowns.** Built a scam-site identifier that scores suspected scam websites from public content and assembles evidence for lawful abuse reports (registrars, hosts, Google Safe Browsing, PhishTank, APWG, IC3).
-- **Detection engineering.** Built a three-layer remote-control detection lab: browser input forensics, endpoint process and port checks, and server-side timeline analytics.
+- **Threat analysis & takedowns.** Built [Scam Sentinel](https://github.com/marketwizardhq/scam-sentinel), a scam-site identifier that scores suspected scam websites from public content and assembles evidence for lawful abuse reports (registrars, hosts, Google Safe Browsing, PhishTank, APWG, IC3).
+- **Detection engineering.** Built a three-layer [remote-control detection lab](https://github.com/marketwizardhq/remote-control-detector): browser input forensics, endpoint process and port checks, and server-side timeline analytics.
 
 **Teaching:** cybersecurity mentor on [Magistro](https://www.magistroltd.com) (as *Techgod Cyber*) and founder of the [Techgod academy](https://techgod.space), covering ethical hacking, offensive and defensive security, and GRC.
 
