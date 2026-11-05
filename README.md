@@ -26,7 +26,7 @@ I break software for a living and build it too. I've been working hands-on since
 ### 🛡️ Security
 
 - **Vulnerability research.** Discovered and privately disclosed vulnerabilities in third-party websites, handled under confidentiality agreements with the site owners.
-- **Exploits found in live financial software.** A game-replay payout exploit, a crash-game outcome leak, and a payout-crediting failure, all found and fixed in production platforms.
+- **Exploits found in production fintech software.** In real-money platforms I engineered, found and fixed a round-replay payout exploit, a client-side outcome leak, and a payout-crediting failure.
 - **Defensive security & malware analysis.** Endpoint protection and EDR hardening, application control against untrusted binaries and DLL sideloading, and how attackers abuse code signing to slip past Windows security.
 - **Governance, Risk & Compliance.** Risk assessment, security governance, policy development, compliance frameworks, remediation planning.
 - **Threat analysis & takedowns.** Built [Scam Sentinel](https://github.com/marketwizardhq/scam-sentinel), a scam-site identifier that scores suspected scam websites from public content and assembles evidence for lawful abuse reports (registrars, hosts, Google Safe Browsing, PhishTank, APWG, IC3).
