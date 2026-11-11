@@ -29,8 +29,8 @@ I break software for a living and build it too. I've been working hands-on since
 - **Exploits found in production fintech software.** In real-money platforms I engineered, found and fixed a round-replay payout exploit, a client-side outcome leak, and a payout-crediting failure.
 - **Defensive security & malware analysis.** Endpoint protection and EDR hardening, application control against untrusted binaries and DLL sideloading, and how attackers abuse code signing to slip past Windows security.
 - **Governance, Risk & Compliance.** Risk assessment, security governance, policy development, compliance frameworks, remediation planning.
-- **Threat analysis & takedowns.** Built [Scam Sentinel](https://github.com/marketwizardhq/scam-sentinel), a scam-site identifier that scores suspected scam websites from public content and assembles evidence for lawful abuse reports (registrars, hosts, Google Safe Browsing, PhishTank, APWG, IC3).
-- **Detection engineering.** Built a three-layer [remote-control detection lab](https://github.com/marketwizardhq/remote-control-detector): browser input forensics, endpoint process and port checks, and server-side timeline analytics.
+- **Threat analysis & takedowns.** Built [Scam Sentinel](https://github.com/Techgodcyber/scam-sentinel), a scam-site identifier that scores suspected scam websites from public content and assembles evidence for lawful abuse reports (registrars, hosts, Google Safe Browsing, PhishTank, APWG, IC3).
+- **Detection engineering.** Built a three-layer [remote-control detection lab](https://github.com/Techgodcyber/remote-control-detector): browser input forensics, endpoint process and port checks, and server-side timeline analytics.
 
 **Teaching:** cybersecurity mentor on [Magistro](https://www.magistroltd.com) (as *Techgod Cyber*) and founder of the [Techgod academy](https://techgod.space), covering ethical hacking, offensive and defensive security, and GRC.
 
@@ -42,11 +42,11 @@ I break software for a living and build it too. I've been working hands-on since
 - **AI platforms.** Multi-agent orchestration and retrieval-augmented search built on Claude
 - **Blockchain & payments.** Raw EVM transactions (RLP, EIP-155, ABI) without a web3 library, multi-chain HD wallets, on-chain payment verification and deposit detection
 
-#### Featured: [php-evm-toolkit](https://github.com/marketwizardhq/php-evm-toolkit)
+#### Featured: [php-evm-toolkit](https://github.com/Techgodcyber/php-evm-toolkit)
 
-[![tests](https://github.com/marketwizardhq/php-evm-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/marketwizardhq/php-evm-toolkit/actions/workflows/tests.yml)
+[![tests](https://github.com/Techgodcyber/php-evm-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/Techgodcyber/php-evm-toolkit/actions/workflows/tests.yml)
 [![PHP 8.1+](https://img.shields.io/badge/php-8.1%2B-777bb4)](https://www.php.net/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/marketwizardhq/php-evm-toolkit/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/Techgodcyber/php-evm-toolkit/blob/main/LICENSE)
 
 Low-level EVM utilities for PHP: RLP encoder, EIP-155 transaction signing, ABI codec, contract deployment, and on-chain payment verification. Tested against **published specification vectors**, not against itself, across PHP 8.1, 8.2 and 8.3. Its docs include an explicit trust model: what on-chain payment verification can and can't guarantee.
 
